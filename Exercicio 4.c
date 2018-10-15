@@ -2,7 +2,7 @@
 
 int main(void) {
  int lili[5];
- printf("Malaca digite ai 5 numeros :\n");
+ printf("Usuario digite ai 5 numeros :\n");
  for (int i = 0; i <= 4; i++){
 scanf("%d", &lili[i]);
  }
